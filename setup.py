@@ -11,7 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     author='Risto Kowaczewski',
     author_email='risto.kowaczewski@gmail.com',
-    packages=['Inject_event'],
+    packages=['tracardi_inject_event'],
     install_requires=[
         'tracardi-plugin-sdk',
         'tracardi'
