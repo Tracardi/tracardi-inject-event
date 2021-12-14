@@ -30,7 +30,7 @@ def register() -> Plugin:
             className='InjectEvent',
             inputs=["payload"],
             outputs=['payload'],
-            version='0.1',
+            version='0.3',
             license="MIT",
             author="Risto Kowaczewski",
             init={

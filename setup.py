@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='tracardi-inject-event',
-    version='0.1',
+    version='0.3',
     description='This node will inject event of given id into payload',
     long_description=long_description,
     long_description_content_type="text/markdown",
