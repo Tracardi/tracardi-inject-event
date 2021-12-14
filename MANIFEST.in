@@ -1,2 +1,1 @@
-recursive-include Inject_event/model *
-recursive-include Inject_event/service *
+recursive-include tracardi_inject_event/model *

@@ -7,7 +7,9 @@ from tracardi_plugin_sdk.service.plugin_runner import run_plugin
 
 from tracardi_inject_event.plugin import InjectEvent
 
-init = {}
+init = {
+    "event_id": "a"
+}
 payload = {}
 profile = Profile(id="profile-id")
 event = Event(id="event-id",
